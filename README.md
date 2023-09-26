@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @FiNiShYy
+- ⌨️​ Currently working as an intern developer
 - 👀 I’m interested in codes, games and cars
 - 🌱 I’m currently learning java
 - 📫 To reach me you can use my email: kauagabrielramkg@gmail.com
