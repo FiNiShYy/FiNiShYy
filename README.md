@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @FiNiShYy
-- ⌨️​ Currently working as an intern developer
-- 👀 I’m interested in codes, games and cars
-- 🌱 I’m currently learning javascript
-- 📫 To reach me you can use my email: kauagabrielramkg@gmail.com
+## Olá, me chamo Kauã Gabriel!
 
-<!---
-FiNiShYy/FiNiShYy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div>
+  <a href="[https://www.instagram.com/thiagueirasantos/](https://www.linkedin.com/in/kau%C3%A3-gabriel-821996212/)">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FiNiShYy&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FiNiShYy&layout=compact&langs_count=16&theme=radical"/>
+</div>
