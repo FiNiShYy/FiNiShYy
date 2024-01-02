@@ -12,7 +12,10 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="right" hegiht="300" width="300" src="https://media4.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47w32h803zus0vtnrg7vsuu0xetovddoc065lrqev0&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
 </div>
 
 ##
