@@ -22,6 +22,6 @@
 ##
 
 ## ⚡ WakaTime Stats
-[![wakatime](https://wakatime.com/badge/user/6092f6f5-03be-4e5d-8178-380f0966f337.svg)](https://wakatime.com/@3428e7c7-f746-4a39-a04a-1d016ef6c1f5)
+[![wakatime](https://wakatime.com/badge/user/3428e7c7-f746-4a39-a04a-1d016ef6c1f5.svg)](https://wakatime.com/@3428e7c7-f746-4a39-a04a-1d016ef6c1f5)
+
 <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=MarcanteVitor&show_icons=true&theme=radical&layout=compact" alt="Github wakatime status" />
